@@ -1,15 +1,5 @@
 # My Portfolio Website created with React
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-
 ### Screenshot
 
 ![](./screenshot.png)
