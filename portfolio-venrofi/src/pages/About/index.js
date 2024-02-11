@@ -20,7 +20,9 @@ const About = () => {
                     <div className="about-text">
                         <p>An aspiring Frontend Developer, hungry for new experiences in the IT industry.</p>
 
-                        <p>I am a Computer Science Student at the Silesian University of Technology. Already in middle school, the topic of Web Development caught my attention and this is the industry where I see my future in. I love creating websites - designing UX / UI as well as turning the design into a working website.</p>
+                        <p>I am a full-time programmer specializing in front-end development and UX/UI. I discovered my passion while attending an IT technical school, where the topic of Web Development caught my greatest attention, and that is the industry in which I see my future. I love creating websites - designing UX/UI, as well as turning the design into a working website.</p>
+
+                        <p>During engineering studies at the <b>Silesian University of Technology</b>, I continued my front-end education, specialising in the Angular framework. Additionally, I chose a minor specialization Programming Mobile Applications to expand my competencies and knowledge.</p>
 
                         <p>I am fluent in English and in my spare time I am slowly learning Italian on my own. On a personal level, I am an open, down to earth person with a lot of positive energy and smiles. I am reliable and capable in fast-paced environments, and I always deliver the finished product on time. I am highly organized and pride myself on being extremely attentive to detail.</p>
                     </div>
@@ -34,7 +36,6 @@ const About = () => {
                         <h2>My <span className="text-highlight">Skills</span>.</h2>
                         <div className="about-skill">
                             <p>HTML & CSS</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -44,8 +45,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className="about-skill">
-                            <p>SASS</p>
-
+                            <p>SCSS</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -56,18 +56,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>GIT</p>
-
-                            <div>
-                                <AiFillStar color="#DA2424"/>
-                                <AiFillStar color="#DA2424"/>
-                                <AiFillStar color="#DA2424"/>
-                                <AiFillStar color="#DA2424"/>
-                                <AiOutlineStar color="#DA2424"/>
-                            </div>
-                        </div>
-                        <div className="about-skill">
-                            <p>Figma</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -78,7 +66,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>TypeScript</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -89,7 +76,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>Angular</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -99,19 +85,27 @@ const About = () => {
                             </div>
                         </div>
                         <div className="about-skill">
-                            <p>Storybook</p>
-
+                            <p>RxJS</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
+                                <AiFillStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
+                            </div>
+                        </div>
+                        <div className="about-skill">
+                            <p>Figma</p>
+                            <div>
+                                <AiFillStar color="#DA2424"/>
+                                <AiFillStar color="#DA2424"/>
+                                <AiFillStar color="#DA2424"/>
+                                <AiFillStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
                             </div>
                         </div>
                         <div className="about-skill">
                             <p>WordPress</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -122,7 +116,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>MySQL</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -133,7 +126,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>React</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -144,7 +136,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>C#</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -155,7 +146,6 @@ const About = () => {
                         </div>
                         <div className="about-skill">
                             <p>Java</p>
-
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
