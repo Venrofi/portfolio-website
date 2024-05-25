@@ -46,7 +46,7 @@ const Portfolio = () => {
 					tech1="Angular"
 					tech2="Typescript"
 					siteLink="https://hip-hop-hub.netlify.app/"
-					codeLink="https://github.com/Venrofi/praca-inzynierska/tree/standalone-fe-firebase"
+					codeLink="https://github.com/Venrofi/praca-inzynierska/tree/standalone-fe-firebase/wortal-app"
 					imgSrc={HipHopHubPreview}
 					imgAlt="A Screenshot of Hip-Hop Hub Home Page"
 				/>
