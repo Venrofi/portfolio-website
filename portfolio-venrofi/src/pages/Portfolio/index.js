@@ -11,6 +11,7 @@ import ReDesign from "../../components/ReDesign";
 import SpaceTourismPreview from "../../assets/portfolio/preview-space-tourism.png";
 import CepikCarDatabasePreview from "../../assets/portfolio/preview-cepik-car-database.png";
 import HipHopHubPreview from "../../assets/portfolio/preview-hip-hop-hub.png";
+import PlanningPokerPreview from "../../assets/portfolio/preview-planning-poker.png";
 import HuddlePreview from "../../assets/portfolio/preview-huddle.png";
 import PhloxPreview from "../../assets/portfolio/preview-phlox.png";
 import GlassWebsitePreview from "../../assets/portfolio/preview-glass-website.png";
@@ -49,6 +50,16 @@ const Portfolio = () => {
 					codeLink="https://github.com/Venrofi/praca-inzynierska/tree/standalone-fe-firebase/wortal-app"
 					imgSrc={HipHopHubPreview}
 					imgAlt="A Screenshot of Hip-Hop Hub Home Page"
+				/>
+
+				<LiveSite
+					name="Planning Poker"
+					tech1="Angular"
+					tech2="Typescript"
+					siteLink="https://planning-poker-venrofi.netlify.app/"
+					codeLink="https://github.com/Venrofi/planning-poker/"
+					imgSrc={PlanningPokerPreview}
+					imgAlt="A Screenshot of Planning Poker room"
 				/>
 
 				<LiveSite
