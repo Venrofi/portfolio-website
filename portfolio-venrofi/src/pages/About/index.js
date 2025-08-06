@@ -45,7 +45,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className="about-skill">
-                            <p>SCSS</p>
+                            <p>Angular</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -55,7 +55,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className="about-skill">
-                            <p>GIT</p>
+                            <p>SCSS</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -75,7 +75,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className="about-skill">
-                            <p>Angular</p>
+                            <p>RxJS</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -85,7 +85,7 @@ const About = () => {
                             </div>
                         </div>
                         <div className="about-skill">
-                            <p>RxJS</p>
+                            <p>GIT</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
@@ -100,7 +100,7 @@ const About = () => {
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
                                 <AiFillStar color="#DA2424"/>
-                                <AiFillStar color="#DA2424"/>
+                                <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
                             </div>
                         </div>
@@ -138,7 +138,7 @@ const About = () => {
                             <p>C#</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
-                                <AiFillStar color="#DA2424"/>
+                                <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
@@ -148,7 +148,7 @@ const About = () => {
                             <p>Java</p>
                             <div>
                                 <AiFillStar color="#DA2424"/>
-                                <AiFillStar color="#DA2424"/>
+                                <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
                                 <AiOutlineStar color="#DA2424"/>
